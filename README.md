@@ -3,7 +3,7 @@
 https://sites.google.com/view/rem-test/?pli=1&authuser=0
 
 ## 1. 漫画喫茶の料金計算処理
-test.phpに記載
+`test.php` に記載
 
 実行方法
 ```
@@ -11,9 +11,7 @@ php test.php
 ```
 
 ## 2. テーブル構造の定義
-test.mdに記載
-
-mermaidを使用
+`test.md` に記載
 
 ## その他
 
