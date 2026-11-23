@@ -1,6 +1,6 @@
 # 株式会社C&P様　面接用テスト
 
-https://sites.google.com/view/rem-test/?pli=1&authuser=0
+https://sites.google.com/view/rem-test/
 
 ## 1. 漫画喫茶の料金計算処理
 `test.php` に記載
